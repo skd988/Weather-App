@@ -7,7 +7,7 @@ Shaked Stossel - skd988@gmail.com
 Barak Saadon
 
 ## General Information
-This app allows users to get weather data received from a separate api.
+This website allows users to get weather data received from a separate api.
 Users can add locations in the locations tab, by filling a form with name and coordinates (latitude and longitude)
 of the location. Users may add as many as you want, and remove them by clicking on the 'x' next to each location.
 
