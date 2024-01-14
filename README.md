@@ -3,11 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Authors
-Student name - student email.
+Shaked Stossel - skd988@gmail.com
 
-Shaked Stossel - shakeds@edu.hac.ac.il
-
-Barak Saadon - baraksa@edu.hac.ac.il
+Barak Saadon
 
 ## General Information
 This app allows users to get weather data received from a separate api.
